@@ -4,7 +4,7 @@
 
 #### Take a look on the chatroom here:  
 [https://weberi.github.io/kic_chatroom.github.io](https://weberi.github.io/kic_chatroom.github.io)
-
+https://spam1-del.github.io/kic_chatroom.github.io/
 
 #### To create your own chatroom:
 1. Fork this repository (this makes a copy of the project in your GitHub account).
